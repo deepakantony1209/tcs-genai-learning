@@ -2,3 +2,5 @@ numpy
 ipykernel 
 sklearn.preprocessing
 svgling
+tensorflow
+tensorboard
